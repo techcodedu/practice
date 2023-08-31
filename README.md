@@ -162,6 +162,7 @@ Add the following HTML code for the card section:
     <h2>Card Title 1</h2>
     <p>Card description here.</p>
   </div>
+/* Add two more blocks of card and look for available images link in pexels*/
 </div>
 ```
 
